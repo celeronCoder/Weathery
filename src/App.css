@@ -4,12 +4,12 @@
     flex-direction: column;
     justify-content: space-evenly;
     height: 100vh;
-    background: linear-gradient(#6E3F98, #CFA497);
+    background: linear-gradient(#02D4D4, #00aeeb, #2a79d4);
 }
 
 .loader {
-    border: 5px solid #CFA497;
-    border-top: 20px solid #6E3F98;
+    border: 5px solid #00ae;
+    border-top: 20px solid #2a79d4;
     border-radius: 50%;
     width: 40px;
     height: 40px;
